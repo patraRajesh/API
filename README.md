@@ -4,7 +4,10 @@
   
   
   item/ - retrive data
+  
   update/ - update data
+  
   create/ - create new data
+  
   delete/ - delete data
   
